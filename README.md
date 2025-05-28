@@ -1,1 +1,1 @@
-this is my portfolio website in for third year first semister web programming project assignment 
+this is my portfolio website  for third year first semister web programming project assignment 
